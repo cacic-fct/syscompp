@@ -1,0 +1,37 @@
+[07-Oct-2015 23:42:22 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/syscompp/public_html/application/views/shortcourses_register.php on line 48
+[06-Nov-2015 12:34:36 UTC] PHP Fatal error:  Cannot redeclare System::invoice() in /home/syscompp/public_html/application/controllers/System.php on line 355
+[06-Nov-2015 12:35:10 UTC] PHP Fatal error:  Cannot redeclare System::invoice() in /home/syscompp/public_html/application/controllers/System.php on line 355
+[06-Nov-2015 12:35:37 UTC] PHP Fatal error:  Cannot redeclare System::invoice() in /home/syscompp/public_html/application/controllers/System.php on line 355
+[06-Nov-2015 12:35:45 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/syscompp/public_html/application/views/tickets.php on line 16
+[06-Nov-2015 12:35:59 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/syscompp/public_html/application/views/tickets.php on line 16
+[06-Nov-2015 12:47:24 UTC] PHP Fatal error:  Call to a member function getId() on a non-object in /home/syscompp/public_html/application/controllers/System.php on line 370
+[06-Nov-2015 12:47:39 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 309400 bytes) in /home/syscompp/public_html/application/third_party/mpdf/mpdf.php on line 14487
+[06-Nov-2015 12:48:34 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 309400 bytes) in /home/syscompp/public_html/application/third_party/mpdf/mpdf.php on line 14487
+[06-Nov-2015 12:51:10 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 196608 bytes) in /home/syscompp/public_html/application/third_party/mpdf/classes/otl.php on line 1872
+[06-Nov-2015 12:51:15 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 196608 bytes) in /home/syscompp/public_html/application/third_party/mpdf/classes/otl.php on line 1872
+[06-Nov-2015 12:53:33 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 130968 bytes) in /home/syscompp/public_html/application/third_party/mpdf/mpdf.php on line 6615
+[06-Nov-2015 12:53:35 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 130968 bytes) in /home/syscompp/public_html/application/third_party/mpdf/mpdf.php on line 6615
+[06-Nov-2015 12:54:57 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 196608 bytes) in /home/syscompp/public_html/application/third_party/mpdf/classes/otl.php on line 4611
+[06-Nov-2015 13:40:15 UTC] PHP Fatal error:  Call to a member function SetColumns() on a non-object in /home/syscompp/public_html/application/controllers/System.php on line 396
+[06-Nov-2015 13:51:47 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/syscompp/public_html/application/controllers/System.php on line 260
+[07-Nov-2015 21:49:24 UTC] PHP Fatal error:  Call to undefined method Users_registered_shortcourses_model::exists() in /home/syscompp/public_html/application/controllers/Presences.php on line 34
+[07-Nov-2015 21:49:56 UTC] PHP Fatal error:  Call to undefined method Users_registered_shortcourses_model::exists() in /home/syscompp/public_html/application/controllers/Presences.php on line 34
+[07-Nov-2015 21:50:05 UTC] PHP Fatal error:  Call to undefined method Users_registered_shortcourses_model::exists() in /home/syscompp/public_html/application/controllers/Presences.php on line 34
+[08-Nov-2015 21:54:39 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/syscompp/public_html/system/core/Exceptions.php:272) in /home/syscompp/public_html/system/core/Common.php on line 568
+[10-Nov-2015 15:52:41 UTC] PHP Parse error:  syntax error, unexpected ''amount'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/syscompp/public_html/application/controllers/Reports.php on line 117
+[30-Dec-2015 19:42:15 UTC] PHP Fatal error:  Call to a member function getByUser() on a non-object in /home/syscompp/public_html/application/controllers/Certificates.php on line 34
+[30-Dec-2015 19:52:21 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/syscompp/public_html/application/views/certificates.php on line 11
+[30-Dec-2015 19:52:39 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/syscompp/public_html/application/views/certificates.php on line 11
+[30-Dec-2015 19:52:40 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/syscompp/public_html/application/views/certificates.php on line 11
+[04-Feb-2016 16:01:21 UTC] PHP Fatal error:  Call to undefined method stdClass::WriteHTML() in /home/syscompp/public_html/application/controllers/Certificates.php on line 104
+[04-Feb-2016 16:03:26 UTC] PHP Fatal error:  Call to a member function SetWatermarkImage() on a non-object in /home/syscompp/public_html/application/controllers/Certificates.php on line 103
+[04-Feb-2016 16:04:44 UTC] PHP Fatal error:  Call to a member function SetWatermarkImage() on a non-object in /home/syscompp/public_html/application/controllers/Certificates.php on line 103
+[04-Feb-2016 16:04:45 UTC] PHP Fatal error:  Call to a member function SetWatermarkImage() on a non-object in /home/syscompp/public_html/application/controllers/Certificates.php on line 103
+[04-Feb-2016 16:04:46 UTC] PHP Fatal error:  Call to a member function SetWatermarkImage() on a non-object in /home/syscompp/public_html/application/controllers/Certificates.php on line 103
+[04-Feb-2016 16:04:47 UTC] PHP Fatal error:  Call to a member function SetWatermarkImage() on a non-object in /home/syscompp/public_html/application/controllers/Certificates.php on line 103
+[04-Feb-2016 16:05:45 UTC] PHP Fatal error:  Call to a member function SetWatermarkImage() on a non-object in /home/syscompp/public_html/application/controllers/Certificates.php on line 103
+[04-Feb-2016 16:05:46 UTC] PHP Fatal error:  Call to a member function SetWatermarkImage() on a non-object in /home/syscompp/public_html/application/controllers/Certificates.php on line 103
+[04-Feb-2016 16:05:47 UTC] PHP Fatal error:  Call to a member function SetWatermarkImage() on a non-object in /home/syscompp/public_html/application/controllers/Certificates.php on line 103
+[04-Feb-2016 16:05:48 UTC] PHP Fatal error:  Call to a member function SetWatermarkImage() on a non-object in /home/syscompp/public_html/application/controllers/Certificates.php on line 103
+[04-Feb-2016 16:05:48 UTC] PHP Fatal error:  Call to a member function SetWatermarkImage() on a non-object in /home/syscompp/public_html/application/controllers/Certificates.php on line 103
+[04-Feb-2016 16:07:14 UTC] PHP Fatal error:  Call to a member function SetWatermarkImage() on a non-object in /home/syscompp/public_html/application/controllers/Certificates.php on line 103
