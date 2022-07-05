@@ -54,7 +54,7 @@ date_default_timezone_set('America/Sao_Paulo');
  *
  * NOTE: If you change these, also change the error_reporting() code below
  */
-	define('ENVIRONMENT', isset($_SERVER['CI_ENV']) ? $_SERVER['CI_ENV'] : 'development');
+define('ENVIRONMENT', isset($_SERVER['CI_ENV']) ? $_SERVER['CI_ENV'] : 'development');
 
 /*
  *---------------------------------------------------------------
@@ -290,4 +290,11 @@ switch (ENVIRONMENT)
  *
  * And away we go...
  */
+
+
+require_once "vendor" . DIRECTORY_SEPARATOR . "autoload.php";
+
+$dotenv = Dotenv\Dotenv::createImmutable(__DIR__);
+$dotenv->load();
+
 require_once BASEPATH.'core/CodeIgniter.php';
